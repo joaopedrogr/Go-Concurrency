@@ -1,1 +1,1 @@
-# Go-Concurrency
+# Go
